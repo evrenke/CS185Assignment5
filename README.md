@@ -7,6 +7,7 @@ the bash scripts text_binary_classify takes a directory of two directories of da
 commonTweets is from assignment 4, and uses the tweet database file to add tweets with 2 or more common words with a given review
 
 Written Questions:
+
 6) Check and describe training file
 
 nano all_reviews_training.arff
